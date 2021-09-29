@@ -131,3 +131,14 @@ button{
   color: #ccc;
 }
 
+@media (max-width: 690px) {
+  .wrapper {
+    width: 70%;
+  }
+}
+
+@media (max-width: 500px) {
+  .wrapper {
+    width: 90%;
+  }
+}
